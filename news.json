@@ -1,0 +1,39 @@
+{
+  "site": "humanoidrobotsupplychain.com",
+  "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
+  "items": [
+    {
+      "iso": "2026-07-15",
+      "chip": "Semiconductors",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/07/image-17.jpg",
+      "credit": "Image © Renesas",
+      "title": "Renesas organizes its humanoid push around four subsystem domains",
+      "summary": "The chipmaker is structuring its humanoid strategy into brain-and-motion, sensing, actuation and power management — betting suppliers will buy platforms rather than parts in a market it expects, according to Renesas, to double every year through 2030.",
+      "source": "humanoid.guide",
+      "date": "15 Jul 2026",
+      "url": "https://humanoid.guide/renesas-humanoid-robotics-push-targets-physical-ai-systems/?utm_source=microsite&utm_medium=referral&utm_campaign=sc2026&utm_content=briefing"
+    },
+    {
+      "iso": "2026-07-15",
+      "chip": "Policy",
+      "image": "https://cdn.prod.website-files.com/68d6ca150ffa11fdc25d7575/698c88da0a3bf08e257409ea_digit-profile.jpg",
+      "credit": "Image © Agility Robotics",
+      "title": "Agility's six-point policy plan puts the component gap first",
+      "summary": "CEO Peggy Johnson urges Washington to close the gap on internationally sourced parts — citing McKinsey data that China holds roughly 90% of permanent-magnet motor capacity — in Agility's recommendations for a U.S. humanoid strategy.",
+      "source": "The Robot Report",
+      "date": "15 Jul 2026",
+      "url": "https://www.therobotreport.com/agility-outlines-six-recommendations-for-u-s-humanoid-robot-policies/"
+    },
+    {
+      "iso": "2026-07-07",
+      "chip": "End Effectors",
+      "art": "yellow",
+      "artTitle": "Hands go public",
+      "title": "Robot-hand maker Tesollo starts the IPO process after its Series B",
+      "summary": "The Incheon-based end-effector specialist — whose five-fingered DG-5F-S weighs under 1 kg and costs about 60% less than its predecessor, according to the company — exports to 19 countries and is preparing to list next year.",
+      "source": "The Robot Report",
+      "date": "7 Jul 2026",
+      "url": "https://www.therobotreport.com/tesollo-initiates-ipo-process-developing-humanoid-hands/"
+    }
+  ]
+}
