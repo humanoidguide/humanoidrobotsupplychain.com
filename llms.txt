@@ -1,0 +1,15 @@
+# The Humanoid Robot Supply Chain — A Strategic Guide for Suppliers 2026–2027
+
+> Official microsite for humanoid.guide's supply-chain report: 226 pages, 16 chapters, 27 figures and 49 strategic tables mapping the humanoid robot supply chain — actuators, sensors, batteries, semiconductors, structural components, thermal management, end effectors — plus regional dynamics, regulation and the 2027–28 consolidation window. Released May 2026, delivered as PDF. Single User License $590, Enterprise License $2,390. Published by Humanoid Guide (humanoid.guide) — contact human@humanoid.guide.
+
+## Key pages
+
+- [The report](https://humanoidrobotsupplychain.com/): chapters, key numbers (e.g. $38B market by 2035 per Goldman Sachs, $9.86B actuator market, 63–70% Chinese supply-chain share), licensing
+- [The Briefing archive](https://humanoidrobotsupplychain.com/archive.html): curated humanoid supply-chain news from the humanoid.guide desk, updated twice daily, sources linked on every story
+- [The Briefing as JSON](https://humanoidrobotsupplychain.com/news.json): machine-readable news feed (title, summary, source, date, url)
+
+## Buy and publisher
+
+- [Buy the report on humanoid.guide](https://humanoid.guide/the-humanoid-robot-supply-chain/)
+- [Humanoid Guide](https://humanoid.guide/): the publisher — humanoid robotics news, research and reports
+- Sister reports: [Humanoid Robot Market Report 2026](https://humanoidmarketreport.com/) · [Humanoid Foundation Models](https://humanoidfoundationmodels.com/)

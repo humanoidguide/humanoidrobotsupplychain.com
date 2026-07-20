@@ -415,9 +415,42 @@
     <p class="kicker">The Briefing</p>
     <h2>This week in the humanoid supply chain.</h2>
     <p class="sub">Hand-picked component and supplier news from the humanoid.guide desk &mdash; the same signals we track for the report.</p>
-    <div class="news-grid" id="hg-news-grid"><!-- rendered from news.json --></div>
+    <div class="news-grid" id="hg-news-grid"><!-- BRIEFING:START -->
+      <a class="news-card" href="https://humanoid.guide/renesas-humanoid-robotics-push-targets-physical-ai-systems/?utm_source=microsite&amp;utm_medium=referral&amp;utm_campaign=sc2026&amp;utm_content=briefing" target="_blank" rel="noopener"><div class="news-art photo"><img src="https://humanoid.guide/wp-content/uploads/2026/07/image-17.jpg" alt="Renesas organizes its humanoid push around four subsystem domains" loading="lazy"><span class="news-chip">Semiconductors</span></div><div class="news-body"><h3>Renesas organizes its humanoid push around four subsystem domains</h3><p><span class="crediti">Image © Renesas — </span>The chipmaker is structuring its humanoid strategy into brain-and-motion, sensing, actuation and power management — betting suppliers will buy platforms rather than parts in a market it expects, according to Renesas, to double every year through 2030.</p><div class="news-meta"><b>humanoid.guide</b> · 15 Jul 2026 →</div></div></a>
+      <a class="news-card" href="https://www.therobotreport.com/agility-outlines-six-recommendations-for-u-s-humanoid-robot-policies/" target="_blank" rel="noopener"><div class="news-art photo"><img src="https://cdn.prod.website-files.com/68d6ca150ffa11fdc25d7575/698c88da0a3bf08e257409ea_digit-profile.jpg" alt="Agility&#x27;s six-point policy plan puts the component gap first" loading="lazy"><span class="news-chip">Policy</span></div><div class="news-body"><h3>Agility&#x27;s six-point policy plan puts the component gap first</h3><p><span class="crediti">Image © Agility Robotics — </span>CEO Peggy Johnson urges Washington to close the gap on internationally sourced parts — citing McKinsey data that China holds roughly 90% of permanent-magnet motor capacity — in Agility&#x27;s recommendations for a U.S. humanoid strategy.</p><div class="news-meta"><b>The Robot Report</b> · 15 Jul 2026 →</div></div></a>
+      <a class="news-card" href="https://www.therobotreport.com/tesollo-initiates-ipo-process-developing-humanoid-hands/" target="_blank" rel="noopener"><div class="news-art yellow"><span class="news-chip">End Effectors</span><span class="news-art-title">Hands go public</span></div><div class="news-body"><h3>Robot-hand maker Tesollo starts the IPO process after its Series B</h3><p>The Incheon-based end-effector specialist — whose five-fingered DG-5F-S weighs under 1 kg and costs about 60% less than its predecessor, according to the company — exports to 19 countries and is preparing to list next year.</p><div class="news-meta"><b>The Robot Report</b> · 7 Jul 2026 →</div></div></a>
+    <!-- BRIEFING:END --></div>
+    <!-- BRIEFING-LD:START -->
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "The Briefing — latest curated news on humanoidrobotsupplychain.com",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Renesas organizes its humanoid push around four subsystem domains",
+      "url": "https://humanoid.guide/renesas-humanoid-robotics-push-targets-physical-ai-systems/?utm_source=microsite&utm_medium=referral&utm_campaign=sc2026&utm_content=briefing"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Agility's six-point policy plan puts the component gap first",
+      "url": "https://www.therobotreport.com/agility-outlines-six-recommendations-for-u-s-humanoid-robot-policies/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Robot-hand maker Tesollo starts the IPO process after its Series B",
+      "url": "https://www.therobotreport.com/tesollo-initiates-ipo-process-developing-humanoid-hands/"
+    }
+  ]
+}
+    </script>
+    <!-- BRIEFING-LD:END -->
     <p class="archive-link"><a href="archive.html">View the full Briefing archive &rarr;</a></p>
-    <p class="note">Curated by humanoid.guide. Sources linked on each story.</p>
+    <p class="note"><!-- BRIEFING-NOTE:START -->Curated by humanoid.guide · Latest briefing: 15 Jul 2026 · Sources linked on each story.<!-- BRIEFING-NOTE:END --></p>
   </div>
 </section>
 
@@ -530,6 +563,7 @@
   // Render The Briefing from news.json (updated by the scheduled publisher)
   fetch('news.json', {cache: 'no-cache'}).then(function(r){ return r.json(); }).then(function(data){
     var grid = document.getElementById('hg-news-grid');
+    grid.innerHTML = '';
     var items = (data.items || []).slice(0, 3);
     if (!items.length){ document.getElementById('briefing').style.display = 'none'; return; }
     items.forEach(function(item){
