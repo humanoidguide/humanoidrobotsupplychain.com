@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-07-20",
+      "chip": "End Effectors",
+      "art": "dark",
+      "artTitle": "The Swiss hand",
+      "title": "Mimic puts its tendon-driven Hand M1 into production",
+      "summary": "The Swiss startup's five-fingered M1 pairs a 25 kg power grasp with tactile sensing fine enough to feel 50 grams, according to mimic — built in-house in Switzerland as part of a full-stack platform that includes a data-collection wearable. humanoid.guide's hands directory scores it 7/10.",
+      "source": "humanoid.guide",
+      "date": "20 Jul 2026",
+      "url": "https://humanoid.guide/welcome-mimic-hand-m1/?utm_source=microsite&utm_medium=referral&utm_campaign=sc2026&utm_content=briefing"
+    },
+    {
       "iso": "2026-07-15",
       "chip": "Semiconductors",
       "image": "https://humanoid.guide/wp-content/uploads/2026/07/image-17.jpg",
