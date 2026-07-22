@@ -3,6 +3,28 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-07-21",
+      "chip": "Analysis",
+      "art": "green",
+      "artTitle": "US brains, China parts",
+      "title": "TrendForce: America owns the robot brains, China the parts",
+      "summary": "The US dominates the intelligence stack through Nvidia, Google DeepMind and OpenAI, while China's localized servo motors, reducers and batteries give it the edge in manufacturing scale, according to TrendForce's new component supply chain influence index — which cites AgiBot going from 5,000 to 10,000 units built in just three months as proof of that scaling speed.",
+      "source": "humanoid.guide",
+      "date": "21 Jul 2026",
+      "url": "https://humanoid.guide/trendforce-maps-us-and-china-humanoid-supply-chain-split/?utm_source=microsite&utm_medium=referral&utm_campaign=sc2026&utm_content=briefing"
+    },
+    {
+      "iso": "2026-07-20",
+      "chip": "Materials",
+      "art": "yellow",
+      "artTitle": "The magnet gap",
+      "title": "China ships 20% fewer magnets to the US despite the truce",
+      "summary": "Chinese rare-earth magnet exports to the US averaged 479 tons a month in the first half of 2026, about 20% below the pre-restriction norm, according to US customs data — a squeeze that lands squarely on the permanent-magnet motors inside EVs, factory automation and humanoid actuators. US Trade Representative Jamieson Greer calls Beijing's compliance \"not perfect.\"",
+      "source": "Bloomberg",
+      "date": "20 Jul 2026",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-20/china-is-exporting-20-fewer-magnets-to-us-despite-trade-truce"
+    },
+    {
       "iso": "2026-07-20",
       "chip": "End Effectors",
       "art": "dark",
