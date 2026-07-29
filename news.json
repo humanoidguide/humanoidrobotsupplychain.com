@@ -3,6 +3,28 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-07-28",
+      "chip": "Sensors",
+      "art": "yellow",
+      "artTitle": "Feels in color",
+      "title": "A robot fingertip that feels by changing color",
+      "summary": "Researchers at Queen Mary University of London and Italian partner universities built a fingertip whose synthetic skin shifts color as it deforms, letting an embedded camera map contact pressure and surface topology at 100-micrometer resolution with zero computational latency, according to the team. The mechanochromic design could give robot hands quantitative touch without packing electronics into the fingertip, though durability in real-world use is still unproven.",
+      "source": "IEEE Spectrum",
+      "date": "28 Jul 2026",
+      "url": "https://spectrum.ieee.org/robot-finger"
+    },
+    {
+      "iso": "2026-07-27",
+      "chip": "End Effectors",
+      "image": "https://cdn.prod.website-files.com/6a46d061b9b19390061a8d78/6a63f93b16e15bab4a89648a_News_01.avif",
+      "credit": "Image © Tacta Systems",
+      "title": "Tacta shows its robot hand — and the glove that trains it",
+      "summary": "Palo Alto's Tacta Systems unveiled TactaBot, pairing a 15-joint Tacta Hand driven by fluidic tendon actuation with a sensor-laden skill-capture glove and an AI engine trained on recorded human technique, according to the company. Tactile sensors smaller than a grain of sand read pressures from 250 to 700,000 pascals at 400 samples a second, with first deployments in electronics manufacturing slated for early 2027.",
+      "source": "Tacta Systems",
+      "date": "27 Jul 2026",
+      "url": "https://www.tactasystems.com/article/tacta-systems-unveils-breakthrough-robotic-hands"
+    },
+    {
       "iso": "2026-07-21",
       "chip": "Analysis",
       "art": "green",
