@@ -5,6 +5,17 @@
     {
       "iso": "2026-07-28",
       "chip": "Sensors",
+      "art": "dark",
+      "artTitle": "Solid-state eyes",
+      "title": "RoboSense goes fully solid-state with its E2 robot lidar",
+      "summary": "The Shenzhen lidar maker unveiled E2, a fully solid-state digital lidar built on its in-house SPAD-SoC that fits up to a 180-degree field of view behind just two exposed optical windows, aimed at humanoids, quadrupeds, drones and mowers, according to RoboSense. Two companion chipsets — Phoenix for long-range precision and Peacock for image-grade wide-angle 3D perception — debut alongside it, with the company counting AgiBot, Pudu Robotics and Geek+ among robotics partners already on its lidars.",
+      "source": "RoboSense",
+      "date": "28 Jul 2026",
+      "url": "https://www.robosense.ai/en/news-show-1998"
+    },
+    {
+      "iso": "2026-07-28",
+      "chip": "Sensors",
       "image": "https://www.tdk.com/system/files/press_2026072801_photo_1.jpg",
       "credit": "Image © TDK",
       "title": "TDK and LG Innotek join forces on robot eyes and skin",
