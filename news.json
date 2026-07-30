@@ -5,6 +5,17 @@
     {
       "iso": "2026-07-28",
       "chip": "Sensors",
+      "image": "https://www.tdk.com/system/files/press_2026072801_photo_1.jpg",
+      "credit": "Image © TDK",
+      "title": "TDK and LG Innotek join forces on robot eyes and skin",
+      "summary": "The Japanese and Korean component giants have formed a strategic partnership to co-develop sensing modules for humanoids and physical AI — pairing TDK's InvenSense inertial sensors, position sensors and microphones with LG Innotek's optical and ultra-precision module design, according to the companies. Multi-sensing, says LG Innotek CEO Moon Hyuksoo, is set to become a key capability in robotics.",
+      "source": "TDK",
+      "date": "28 Jul 2026",
+      "url": "https://www.tdk.com/en/news_center/press/20260728_01.html"
+    },
+    {
+      "iso": "2026-07-28",
+      "chip": "Sensors",
       "art": "yellow",
       "artTitle": "Feels in color",
       "title": "A robot fingertip that feels by changing color",
