@@ -1,0 +1,37 @@
+name: IndexNow ping
+
+# Varsler Bing/IndexNow hver gang The Briefing oppdateres.
+# Kjorer pa GitHubs servere, sa ingen manuell godkjenning trengs.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'news.json'
+      - 'index.html'
+      - 'archive.html'
+      - 'sitemap.xml'
+      - '.github/workflows/indexnow.yml'
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping IndexNow
+        env:
+          KEY: 6c6f252fa5f1dd82c97d92f294544d2d
+          HOST: humanoidrobotsupplychain.com
+        run: |
+          fail=0
+          for path in "/" "/archive.html"; do
+            url="https://${HOST}${path}"
+            enc=$(printf '%s' "$url" | sed -e 's|:|%3A|g' -e 's|/|%2F|g')
+            code=$(curl -s -o /dev/null -w '%{http_code}' \
+              "https://api.indexnow.org/indexnow?url=${enc}&key=${KEY}")
+            echo "$url -> HTTP $code"
+            case "$code" in
+              200|202|429) ;;
+              *) fail=1 ;;
+            esac
+          done
+          exit $fail
