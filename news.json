@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-07-29",
+      "chip": "Actuators",
+      "art": "green",
+      "artTitle": "Actuator Alliance",
+      "title": "Stabilus and Synapticon pair up to mass-produce humanoid joints",
+      "summary": "Motion-control manufacturer Stabilus and drive-tech specialist Synapticon have formed a strategic partnership to jointly develop and build integrated actuators for humanoid robots, covering joints from the head and wrists down to the hips and knees. Small-series production starts at Stabilus plants in Europe in 2027, with large-scale output planned in North America from 2028 to sit close to major humanoid makers, according to the companies.",
+      "source": "Stabilus",
+      "date": "29 Jul 2026",
+      "url": "https://www.eqs-news.com/news/corporate/stabilus-se-and-synapticon-enter-into-strategic-partnership-for-the-joint-production-of-integrated-actuators-for-humanoid-robots/724bc562-dc20-4596-a12a-4351842c3b54_en"
+    },
+    {
       "iso": "2026-07-28",
       "chip": "Sensors",
       "art": "dark",
