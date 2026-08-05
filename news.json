@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-08-04",
+      "chip": "End Effectors",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/08/screenshot-6.jpg",
+      "credit": "Image © Humanoid Guide",
+      "title": "Robotera's XHAND 1 PRO packs tactile fingertips and a 25 kg grip",
+      "summary": "The five-fingered hand weighs just 1.1 kg yet lifts up to 25 kg, with fingertip sensors reading pressure, texture and temperature and back-drivable joint motors that yield when pushed, according to Robotera. Already in production for research, teleoperation and imitation-learning work, it scores 7/10 in humanoid.guide's hands directory.",
+      "source": "humanoid.guide",
+      "date": "4 Aug 2026",
+      "url": "https://humanoid.guide/welcome-xhand-1-pro/?utm_source=microsite&utm_medium=referral&utm_campaign=sc2026&utm_content=briefing"
+    },
+    {
       "iso": "2026-07-29",
       "chip": "Actuators",
       "art": "green",
