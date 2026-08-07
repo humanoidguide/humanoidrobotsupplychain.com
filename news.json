@@ -3,6 +3,28 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-08-05",
+      "chip": "End Effectors",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/08/screenshot-7.jpg",
+      "credit": "Image © Humanoid Guide",
+      "title": "WUJI's Hand 2 courts robot developers at $16,000",
+      "summary": "The five-finger hand pairs brushless direct-drive motors with fingertip force sensing and plugs into MuJoCo, Isaac Sim and ROS 2 workflows, according to WUJI Tech, with teleoperation through the Wuji Glove, Apple Vision Pro or RealSense tracking. In production at $16,000, it is pitched as a developer-friendly platform for simulation, control and AI training workflows.",
+      "source": "humanoid.guide",
+      "date": "5 Aug 2026",
+      "url": "https://humanoid.guide/welcome-wuji-hand-2/?utm_source=microsite&utm_medium=referral&utm_campaign=sc2026&utm_content=briefing"
+    },
+    {
+      "iso": "2026-08-05",
+      "chip": "Actuators",
+      "art": "green",
+      "artTitle": "Precision gearing",
+      "title": "GAM takes over Schaeffler's PSC precision gearbox line",
+      "summary": "GAM Enterprises has acquired the IP and manufacturing rights to the PSC servo gearbox from Schaeffler Ultra Precision Drives, standing up GAM-Melior GmbH in Hameln, Germany to build the line; terms were not disclosed. CEO Craig Van den Avont claims the gearing, already at the core of GAM's flagship GPL units, outperforms rival servo gearboxes in high-precision motion control.",
+      "source": "The Robot Report",
+      "date": "5 Aug 2026",
+      "url": "https://www.therobotreport.com/gam-enterprises-to-produce-schaefflers-psc-gear-reducers/"
+    },
+    {
       "iso": "2026-08-04",
       "chip": "End Effectors",
       "image": "https://humanoid.guide/wp-content/uploads/2026/08/screenshot-6.jpg",
