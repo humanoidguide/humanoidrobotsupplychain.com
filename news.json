@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-08-08",
+      "chip": "Components",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/08/image-12.jpg",
+      "credit": "Image © Humanoid Guide",
+      "title": "ROBO Global maps the humanoid parts stack",
+      "summary": "A new guide from the ROBO Global Robotics and Automation Index sorts the humanoid bill of materials into three systems — a sensor-and-compute brain, a body of rotary and linear actuators with precision gearing, and an energy layer where battery weight remains the core constraint. Its takeaway for suppliers: progress leans as much on the ecosystems behind AI chips, sensors and advanced materials as on the robot makers themselves.",
+      "source": "humanoid.guide",
+      "date": "8 Aug 2026",
+      "url": "https://humanoid.guide/robo-guide-maps-humanoid-technology-stack-for-robot-builders/?utm_source=microsite&utm_medium=referral&utm_campaign=sc2026&utm_content=briefing"
+    },
+    {
       "iso": "2026-08-05",
       "chip": "End Effectors",
       "image": "https://humanoid.guide/wp-content/uploads/2026/08/screenshot-7.jpg",
