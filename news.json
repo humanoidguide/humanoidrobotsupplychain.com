@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-08-13",
+      "chip": "End Effectors",
+      "title": "BioflexBot copies the hand's functions, not its shape",
+      "summary": "Researchers at CUHK-Shenzhen and Nanjing University of Information Science and Technology built a pneumatic hand that pinches, rotates, hooks and grasps with a coiled spring, a constraining shell and just two air inputs. Writing in Advanced Science, they say it out-rotates a human hand nearly fourfold and grasps objects up to 13 times larger than comparable systems can.",
+      "source": "The Robot Report",
+      "date": "13 Aug 2026",
+      "url": "https://www.therobotreport.com/bioflexbot-robot-hand-aims-to-replicate-key-human-hand-motions/",
+      "art": "dark",
+      "artTitle": "Function over form"
+    },
+    {
       "iso": "2026-08-08",
       "chip": "Components",
       "image": "https://humanoid.guide/wp-content/uploads/2026/08/image-12.jpg",
