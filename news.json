@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-08-18",
+      "chip": "Sensors",
+      "title": "Car-leather maker Unichem buys robot-skin firm Loomia",
+      "summary": "South Korea's Unichem, a leather supplier to the car industry since 1976, is paying about $6 million for Brooklyn-based Loomia, whose flexible electronic layers bond circuits to cloth and leather and give robot hands soft pressure sensing. The new owner is aiming squarely at humanoid skin: first engineering samples are due in January 2027, with Tesla, OpenAI, Boston Dynamics, 1X and Meta named as target customers, according to The Robot Report.",
+      "source": "The Robot Report",
+      "date": "18 Aug 2026",
+      "url": "https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/",
+      "art": "yellow",
+      "artTitle": "Skin in the game"
+    },
+    {
       "iso": "2026-08-13",
       "chip": "End Effectors",
       "title": "BioflexBot copies the hand's functions, not its shape",
