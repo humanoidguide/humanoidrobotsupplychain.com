@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-08-18",
+      "chip": "Analysis",
+      "title": "Build robot parts in North America or repeat the drone rout",
+      "summary": "Unless key components and final assembly move to North America, the US risks a rerun of the drone market's slide into Chinese dependence, Bloomberg Opinion columnist Thomas Black argues. He counts Mexico in on cost grounds — Jabil already builds Apptronik's humanoids there — and points to Standard Bots' pledge to build American robots on a domestically sourced supply chain.",
+      "source": "Bloomberg",
+      "date": "18 Aug 2026",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-18/humanoid-robots-need-a-supply-chain-in-north-america",
+      "art": "green",
+      "artTitle": "Bring the parts home"
+    },
+    {
+      "iso": "2026-08-18",
       "chip": "Sensors",
       "title": "Car-leather maker Unichem buys robot-skin firm Loomia",
       "summary": "South Korea's Unichem, a leather supplier to the car industry since 1976, is paying about $6 million for Brooklyn-based Loomia, whose flexible electronic layers bond circuits to cloth and leather and give robot hands soft pressure sensing. The new owner is aiming squarely at humanoid skin: first engineering samples are due in January 2027, with Tesla, OpenAI, Boston Dynamics, 1X and Meta named as target customers, according to The Robot Report.",
