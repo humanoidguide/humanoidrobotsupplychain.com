@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-08-21",
+      "chip": "Actuators",
+      "title": "Schaeffler readies formed gearboxes for 2027 mass production",
+      "summary": "Schaeffler has finished validating its formed strain wave gearboxes — key parts of the actuators that make up around half a humanoid's manufacturing cost, according to the company — and plans a mass-production rollout to robot makers from 2027, starting in Germany. Forming the parts instead of machining them cuts manufacturing costs by more than 25% and material use by more than 75%, says the firm, which has supplied over 2 million such gearboxes in the past decade, mostly in automotive.",
+      "source": "The Robot Report",
+      "date": "21 Aug 2026",
+      "url": "https://www.therobotreport.com/schaeffler-plans-to-mass-manufacture-gearboxes-for-humanoids-in-2027/",
+      "image": "https://media.schaeffler-cdn.com/__image/a/1444031/alias/l/ar/cor-16-9/q/100/fn/schaeffler-strain-wave-gearboxes",
+      "credit": "Image © Schaeffler"
+    },
+    {
       "iso": "2026-08-18",
       "chip": "Analysis",
       "title": "Build robot parts in North America or repeat the drone rout",
