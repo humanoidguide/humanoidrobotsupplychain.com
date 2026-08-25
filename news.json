@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-08-23",
+      "chip": "Actuators",
+      "title": "Allient shrinks its frameless torque motors to 25 mm",
+      "summary": "Allient has added 25 mm and 38 mm sizes to its ElectroFlux line of frameless torque motors, aimed at advanced robotics and other space-constrained precision motion designs, according to the company. PCB termination on the stator trims the motor's footprint and lets builders integrate the units directly into their own products.",
+      "source": "Robotics 24/7",
+      "date": "23 Aug 2026",
+      "url": "https://www.robotics247.com/article/allient-adds-new-sizes-to-electroflux-series-of-frameless-torque-motors",
+      "art": "dark",
+      "artTitle": "Frameless power"
+    },
+    {
       "iso": "2026-08-21",
       "chip": "Actuators",
       "title": "Schaeffler readies formed gearboxes for 2027 mass production",
