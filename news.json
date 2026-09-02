@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-08-31",
+      "chip": "Actuators",
+      "title": "HIGEN RNM takes aim at the humanoid actuator bottleneck",
+      "summary": "The Korean motion-control firm's Human-Friendly Actuator Platform spans six standardized units from 60 to 348 Nm, pairing an AFPM motor with a 3K compound planetary gearbox for 30% less volume, 30% more torque density and backdriving torque below 1 Nm, according to the company. CEO Jae Hak Kim's pitch is that AI is making robot brains smarter while intelligence still meets the physical world at the joint – the full platform gets its showcase at CES 2027.",
+      "source": "HIGEN RNM",
+      "date": "31 Aug 2026",
+      "url": "https://www.prnewswire.com/news-releases/higen-rnm-targets-humanoid-robotics-next-bottleneck-the-actuator-302859629.html",
+      "image": "https://mmx.prnewswire.com/media/MS1974961/20260824193958EDT_image_1.jpg",
+      "credit": "Image © HIGEN RNM"
+    },
+    {
       "iso": "2026-08-23",
       "chip": "Actuators",
       "title": "Allient shrinks its frameless torque motors to 25 mm",
