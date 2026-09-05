@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-09-04",
+      "chip": "Sensors",
+      "title": "Lyte's robot-perception silicon pulls in $165M",
+      "summary": "The Sunnyvale firm — founded by ex-Apple and PrimeSense engineers behind Face ID and Kinect — builds custom silicon, multimodal sensors and spatial software that let robots sense position and motion directly rather than piecing them together in software. The Maverick Silicon-led Series C values Lyte at $1.6 billion post-money, with the cash earmarked to scale production of its LyteVision sensing stack, according to the company.",
+      "source": "The Robot Report",
+      "date": "4 Sep 2026",
+      "url": "https://www.therobotreport.com/lyte-raises-165m-help-robots-better-sense-their-surroundings/",
+      "image": "https://media.base44.com/images/public/691d45a813e743f6146d0261/21ddc83bd_LyteVision_Render.png",
+      "credit": "Image © Lyte"
+    },
+    {
       "iso": "2026-09-02",
       "chip": "Actuators",
       "title": "TPC Robotics lines up seven actuators for humanoid joints",
