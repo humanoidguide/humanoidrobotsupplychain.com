@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-09-07",
+      "chip": "Trade Policy",
+      "title": "Robot makers split on the FCC ban, still lean on East Asia",
+      "summary": "A MassRobotics survey of 14 member companies found 43% calling the FCC's July restrictions on foreign-made robots beneficial and an equal share calling them detrimental, with sentiment tracking each firm's manufacturing footprint, according to The Robot Report. Motors, sensors, power supplies and robot arms still come largely from East Asia, respondents said, and vetted onshoring supply networks topped their list of requested support.",
+      "source": "The Robot Report",
+      "date": "7 Sep 2026",
+      "url": "https://www.therobotreport.com/massrobotics-shares-member-survey-results-around-fcc-restrictions/",
+      "art": "yellow",
+      "artTitle": "The onshoring gap"
+    },
+    {
       "iso": "2026-09-04",
       "chip": "Sensors",
       "title": "Lyte's robot-perception silicon pulls in $165M",
