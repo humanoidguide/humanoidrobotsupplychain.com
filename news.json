@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-09-08",
+      "chip": "Analysis",
+      "title": "Why humanoid hardware, not AI, sets the pace",
+      "summary": "Motors, power electronics and sensing — not smarter models — determine what a humanoid can actually do, argues Allegro MicroSystems' Andreas Friedrich in The Robot Report: a humanoid juggles 30-plus degrees of freedom against six or seven for a typical industrial robot, and every gram of electronics adds to the energy needed to move it. He makes the case for 48-volt architectures, which he says cut current draw by a factor of four and wiring losses by a factor of 16 versus 12 volts, and for designing sensing, motor control, power and thermal management as one integrated system.",
+      "source": "The Robot Report",
+      "date": "8 Sep 2026",
+      "url": "https://www.therobotreport.com/ai-cant-outrun-a-humanoids-hardware/",
+      "art": "green",
+      "artTitle": "Hardware sets the pace"
+    },
+    {
       "iso": "2026-09-07",
       "chip": "Trade Policy",
       "title": "Robot makers split on the FCC ban, still lean on East Asia",
