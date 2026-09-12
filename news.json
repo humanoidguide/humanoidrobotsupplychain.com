@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-09-10",
+      "chip": "Components",
+      "title": "Stuttgart's summit turns to actuators, touch and data",
+      "summary": "Day two of the Humanoid Robots Summit went inside the machine: Novanta announced an EU/US actuator safety standard for mid-2028 designed to hold torque through a failure rather than just stop, three firms pitched rival fingertip sensors, and Johnson Electric's Yvan Bourqui put 80% of a humanoid's final cost at the design stage. From the main panel, Unitree's Lyn Wang called the AI model – not factory capacity – the brake on mass production.",
+      "source": "humanoid.guide",
+      "date": "10 Sep 2026",
+      "url": "https://humanoid.guide/humanoid-robots-summit-2026-stuttgart-day-two/?utm_source=microsite&utm_medium=referral&utm_campaign=sc2026&utm_content=briefing",
+      "art": "dark",
+      "artTitle": "Inside the machine"
+    },
+    {
       "iso": "2026-09-08",
       "chip": "Analysis",
       "title": "Why humanoid hardware, not AI, sets the pace",
