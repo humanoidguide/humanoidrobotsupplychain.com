@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-09-12",
+      "chip": "Sensors",
+      "title": "UltraSense pitches ultrasound for tougher robot touch",
+      "summary": "Writing in The Robot Report, two UltraSense Systems executives argue that tactile sensing belongs beneath a robot's surface rather than mounted on it, claiming ultrasound through an elastomer layer delivers 500 µm spatial resolution and millinewton-level force and shear readings without the wear that erodes surface electronics. The San Jose firm says the same platform has already shipped more than 4 million units in automotive applications.",
+      "source": "The Robot Report",
+      "date": "12 Sep 2026",
+      "url": "https://www.therobotreport.com/ultrasound-offers-scalable-path-tactile-intelligence-physical-ai/",
+      "art": "yellow",
+      "artTitle": "Under the skin"
+    },
+    {
       "iso": "2026-09-10",
       "chip": "Components",
       "title": "Stuttgart's summit turns to actuators, touch and data",
