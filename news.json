@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-09-13",
+      "chip": "Teardown",
+      "title": "Munro's G1 teardown maps Unitree's actuator tradeoffs",
+      "summary": "Engineering firm Munro & Associates spent a 38-minute Munro Live episode inside Unitree's G1, finding two-stage planetary actuators geared at roughly 15:1 — easily back-drivable, unlike strain-wave drives at 100:1 and up — plus copper heat pipes on high-duty joints like the knees and twin centrifugal fans in the hips. Billet-machined structural parts point to design flexibility rather than a final manufacturing architecture, according to the teardown.",
+      "source": "humanoid.guide",
+      "date": "13 Sep 2026",
+      "url": "https://humanoid.guide/unitree-g1-teardown-reveals-actuator-and-cooling-tradeoffs/?utm_source=microsite&utm_medium=referral&utm_campaign=sc2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/09/image-19.jpg",
+      "credit": "Image © Humanoid Guide"
+    },
+    {
       "iso": "2026-09-12",
       "chip": "Sensors",
       "title": "UltraSense pitches ultrasound for tougher robot touch",
