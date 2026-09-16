@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-09-15",
+      "chip": "End Effectors",
+      "title": "Xynova's Prima 1 hand bets on touch at $15,000",
+      "summary": "China's Xynova lists Prima 1, a five-fingered, direct-drive research hand with more than 300 force-sensing taxels spread across its fingertips, palm and back. The 0.65 kg hand posts 15 N of fingertip force, 0.5 N force-control accuracy and 0.5 mm repeatability, and is in production for controlled, repeatable contact tasks, according to the company.",
+      "source": "humanoid.guide",
+      "date": "15 Sep 2026",
+      "url": "https://humanoid.guide/welcome-prima-1/?utm_source=microsite&utm_medium=referral&utm_campaign=sc2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/09/screenshot-13.jpg",
+      "credit": "Image © Humanoid Guide"
+    },
+    {
       "iso": "2026-09-14",
       "chip": "End Effectors",
       "title": "AGILINK's OmniHand 3 family starts at $3,200",
