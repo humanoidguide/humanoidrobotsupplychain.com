@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-09-17",
+      "chip": "Semiconductors",
+      "title": "D-Robotics banks $400M for its robot-brain chips",
+      "summary": "The Chinese chipmaker behind the Sunrise robot processors and RDK developer kits has closed a $400 million Series C, with investors including a global internet company it did not name, and will put the money into a broader chip lineup and a software platform spanning the robot development chain. According to D-Robotics, Sunrise shipments have passed 8 million units, and the new S600 has been adopted by more than 20 customers within six months.",
+      "source": "D-Robotics",
+      "date": "17 Sep 2026",
+      "url": "https://en.prnasia.com/releases/apac/d-robotics-completes-400-million-in-series-c-funding-driving-the-robotics-industry-into-a-boom-in-product-categories-548285.shtml",
+      "image": "https://mmx.prnasia.com/media/MS1990602/20260917032213EDT_image_1.jpg",
+      "credit": "Image © D-Robotics"
+    },
+    {
       "iso": "2026-09-16",
       "chip": "End Effectors",
       "title": "Daxo's Muscle V0 packs 120 motors into a tendon-driven hand",
