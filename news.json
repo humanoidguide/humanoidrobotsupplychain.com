@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-09-20",
+      "chip": "Recycling",
+      "title": "Every retired humanoid is a rare-earth mine",
+      "summary": "A single humanoid can carry 3.5–4 kg of neodymium magnets — potentially more than an entire EV skateboard chassis — plus data-laden memory and volatile batteries, argues Robert Belt, a consultant working with recycler Re-Teck, in The Robot Report. He wants “design for recycling” built in now, before the first big wave of 10,000-part machines reaches end of life.",
+      "source": "The Robot Report",
+      "date": "20 Sep 2026",
+      "url": "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/",
+      "art": "green",
+      "artTitle": "The afterlife problem"
+    },
+    {
       "iso": "2026-09-17",
       "chip": "Semiconductors",
       "title": "D-Robotics banks $400M for its robot-brain chips",
