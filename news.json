@@ -14,6 +14,17 @@
       "artTitle": "The afterlife problem"
     },
     {
+      "iso": "2026-09-19",
+      "chip": "Analysis",
+      "title": "Tesla and Figure put tendon-driven hands on trial",
+      "summary": "Tesla has tested tendon-driven hands while Figure abandoned its first tendon design, and humanoid.guide's survey of the debate argues that useful dexterity hinges on how much motion stays controllable once fingers meet real objects — a hand can carry 15 moving joints yet only five motors. Bowden tubes preserve cable length through a moving wrist at the cost of friction, wear and control complexity, while approaches now range from Daxo's 120 tendons to Tacta's fluid transmission and Allonic's braided structure.",
+      "source": "humanoid.guide",
+      "date": "19 Sep 2026",
+      "url": "https://humanoid.guide/tesla-and-figure-choices-sharpen-humanoid-hand-design-debate/?utm_source=microsite&utm_medium=referral&utm_campaign=sc2026&utm_content=briefing",
+      "art": "yellow",
+      "artTitle": "The tendon question"
+    },
+    {
       "iso": "2026-09-17",
       "chip": "Semiconductors",
       "title": "D-Robotics banks $400M for its robot-brain chips",
