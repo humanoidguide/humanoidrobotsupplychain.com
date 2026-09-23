@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-09-21",
+      "chip": "End Effectors",
+      "title": "Unitree's Dex5-S hand trades force for finesse at $6,500",
+      "summary": "The five-fingered Dex5-S runs a backdrivable electric motor at each joint with dual encoders feeding back position, speed, torque and temperature, and connects over Ethernet, USB and RS-485 with a hookup for a palm camera, according to the company. humanoid.guide scores the aluminum-alloy hand 6 out of 10 — capable and mature, tuned for dexterity rather than raw grip — and lists it in production at $6,500 with an optional Pro version for more demanding work.",
+      "source": "humanoid.guide",
+      "date": "21 Sep 2026",
+      "url": "https://humanoid.guide/welcome-dex5-s/?utm_source=microsite&utm_medium=referral&utm_campaign=sc2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/09/screenshot-21.jpg",
+      "credit": "Image © Humanoid Guide"
+    },
+    {
       "iso": "2026-09-20",
       "chip": "Recycling",
       "title": "Every retired humanoid is a rare-earth mine",
