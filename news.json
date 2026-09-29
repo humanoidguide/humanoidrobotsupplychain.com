@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-09-28",
+      "chip": "End Effectors",
+      "title": "Sharpa brings a 21-DoF hand and a haptic glove to IROS",
+      "summary": "Sharpa used IROS in Pittsburgh to unveil its W02 dexterous hand — 21 active degrees of freedom in under 750 grams, with fingertip force sensing from 5 mN to 30 N — alongside the AE01 exoskeleton data glove, which tracks 22 joints and gives 256 levels of vibration feedback per fingertip. The two sit beside the D01 robot, wrapped in electronic skin with 0.2 N force resolution, which Sharpa calls the first integrated tactile-sensing robot built for dexterous manipulation; prices were not disclosed.",
+      "source": "Sharpa (PR Newswire)",
+      "date": "28 Sep 2026",
+      "url": "https://www.prnewswire.com/news-releases/sharpa-unveils-three-flagship-products-d01-robot-w02-dexterous-hand-and-ae01-data-glove-at-iros-2026-302892129.html",
+      "image": "https://mmx.prnewswire.com/media/MS1997551/image1-3.jpg",
+      "credit": "Image © Sharpa"
+    },
+    {
       "iso": "2026-09-26",
       "chip": "Actuators",
       "title": "Actuators now make up over half a humanoid's weight",
