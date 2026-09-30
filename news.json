@@ -15,6 +15,17 @@
     },
     {
       "iso": "2026-09-26",
+      "chip": "Sensors",
+      "title": "e-con Systems readies NetraVis depth eyes for humanoids",
+      "summary": "Embedded-vision maker e-con Systems will debut NetraVis, an active-stereo 3D depth camera with dual global-shutter sensors, a synchronised RGB sensor and an onboard IMU, at VISION 2026 in Stuttgart on 6–8 October. The company claims depth deviation of 1% or less across its range and lists humanoid robots alongside AMRs, ASRS and pick-and-place systems as target platforms.",
+      "source": "Robotics 24/7",
+      "date": "26 Sep 2026",
+      "url": "https://www.robotics247.com/article/e-con-systems-unveils-latest-3d-depth-camera-and-ai-powered-imaging-technologies-at-vision-2026",
+      "art": "green",
+      "artTitle": "Depth on demand"
+    },
+    {
+      "iso": "2026-09-26",
       "chip": "Actuators",
       "title": "Actuators now make up over half a humanoid's weight",
       "summary": "IDTechEx research puts actuators at more than 50% of a typical humanoid's mass, with industrial models averaging 78 kg and some wheeled designs topping 100 kg, humanoid.guide reports. The firm flags precision manufacturing of planetary roller screws and gears, plus load-bearing hip and knee joints, as key engineering constraints for designs that are 80% aimed at industrial work.",
