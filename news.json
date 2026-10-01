@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-10-01",
+      "chip": "Safety Systems",
+      "title": "Agility locks in FORT for Digit 5's safety stack",
+      "summary": "Agility Robotics has signed a memorandum of understanding that widens its relationship with Philadelphia's FORT Robotics from component supply to joint hardware development, compliance work and deployment support for Digit 5. According to Agility, the pair are building a three-part safety architecture: a safety pendant, on-robot communications and an “Offboard Safety Bridge” linking the robot to off-robot systems.",
+      "source": "Agility Robotics (PR Newswire)",
+      "date": "1 Oct 2026",
+      "url": "https://www.prnewswire.com/news-releases/agility-and-fort-robotics-announce-strategic-partnership-to-advance-humanoid-robot-safety-302895323.html",
+      "image": "https://mmx.prnewswire.com/media/MS2000353/Agility-Fort-Press-Release-1.jpg",
+      "credit": "Image © Agility Robotics"
+    },
+    {
       "iso": "2026-09-30",
       "chip": "End Effectors",
       "title": "AGILINK passes 15,000 dexterous hands shipped",
