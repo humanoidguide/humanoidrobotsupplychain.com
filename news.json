@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-09-30",
+      "chip": "End Effectors",
+      "title": "AGILINK passes 15,000 dexterous hands shipped",
+      "summary": "AGILINK says it has now shipped more than 15,000 dexterous robot hands, and marked the milestone by having its 21-DoF OmniHand 3 Ultra learn Suzhou silk embroidery from master craftswoman Fu Xianghong. According to the company, the hand handled thread separation, needle threading, fabric stretching and stitching on silk.",
+      "source": "AGILINK (PR Newswire)",
+      "date": "30 Sep 2026",
+      "url": "https://www.prnewswire.com/news-releases/chinese-robot-hand-learns-suzhou-embroidery-as-agilink-surpasses-15-000-dexterous-hands-shipped-302894250.html",
+      "image": "https://mmx.prnewswire.com/media/MS1999551/20260930042715EDT_image_1.jpg",
+      "credit": "Image © AGILINK"
+    },
+    {
       "iso": "2026-09-28",
       "chip": "End Effectors",
       "title": "Sharpa brings a 21-DoF hand and a haptic glove to IROS",
