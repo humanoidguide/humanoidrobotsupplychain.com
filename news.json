@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-10-01",
+      "chip": "End Effectors",
+      "title": "Boston Dynamics cuts the pinkie from Atlas's new hand",
+      "summary": "Boston Dynamics has unveiled a four-fingered Atlas hand with 13 degrees of freedom, directly driven by a single actuator type and lined with dense tactile sensors on fingertips and palm. The company says it dropped the pinkie because the extra dexterity was not worth the added complexity, and designed the modular hand for low-cost mass manufacturing.",
+      "source": "Boston Dynamics",
+      "date": "1 Oct 2026",
+      "url": "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/",
+      "image": "https://bostondynamics.com/wp-content/uploads/2026/09/atlas-mts-drill-1440x1016-1.jpg",
+      "credit": "Image © Boston Dynamics"
+    },
+    {
+      "iso": "2026-10-01",
       "chip": "Safety Systems",
       "title": "Agility locks in FORT for Digit 5's safety stack",
       "summary": "Agility Robotics has signed a memorandum of understanding that widens its relationship with Philadelphia's FORT Robotics from component supply to joint hardware development, compliance work and deployment support for Digit 5. According to Agility, the pair are building a three-part safety architecture: a safety pendant, on-robot communications and an “Offboard Safety Bridge” linking the robot to off-robot systems.",
