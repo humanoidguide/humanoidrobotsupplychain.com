@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-10-15",
+      "chip": "Batteries",
+      "title": "Nyobolt to supply Digit 5's nine-minute battery",
+      "summary": "Agility Robotics has picked Cambridge, UK-based Nyobolt for the Digit 5 battery, which Agility says delivers 90 minutes of runtime and recharges in nine minutes, a 10:1 run-to-charge ratio versus 2:1 on Digit 4. Agility says early access starts in the first half of 2027, according to The Robot Report.",
+      "source": "The Robot Report",
+      "date": "15 Oct 2026",
+      "url": "https://www.therobotreport.com/agility-robotics-chooses-nyobolt-ultra-fast-charging-digit-5-humanoid/",
+      "art": "green",
+      "artTitle": "Nine-minute charge"
+    },
+    {
       "iso": "2026-10-01",
       "chip": "End Effectors",
       "title": "Boston Dynamics cuts the pinkie from Atlas's new hand",
