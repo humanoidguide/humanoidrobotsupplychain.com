@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-10-22",
+      "chip": "Semiconductors",
+      "title": "Agility makes NVIDIA the sole brain-chip supplier for Digit 5",
+      "summary": "Agility Robotics says Digit 5 will standardize on NVIDIA IGX Thor modules, making NVIDIA the exclusive onboard compute provider for the general-availability version. According to Agility, early access starts in H1 2027 and general availability is expected by end-2027.",
+      "source": "Agility Robotics (SEC filing)",
+      "date": "22 Oct 2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002074973/000121390026111719/ea0309402-425_churchill11.htm",
+      "art": "dark",
+      "artTitle": "Digit 5 on Thor"
+    },
+    {
       "iso": "2026-10-20",
       "chip": "Manufacturing",
       "title": "Schaeffler puts six humanoids on a joint-module line in Taicang",
