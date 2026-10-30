@@ -3,6 +3,28 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-10-28",
+      "chip": "Trade Policy",
+      "title": "White House finds robot imports a security threat – no tariffs yet",
+      "summary": "A Section 232 proclamation covers robots and their parts and components, explicitly citing humanoid and quadruped robots, but sets no tariffs and instead orders talks with trading partners. Analysts quoted by The Robot Report say future duties or quotas could hit finished robots and components such as sensors, actuators and precision gears.",
+      "source": "The Robot Report",
+      "date": "28 Oct 2026",
+      "url": "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/",
+      "art": "dark",
+      "artTitle": "Section 232 robots"
+    },
+    {
+      "iso": "2026-10-27",
+      "chip": "Sensors",
+      "title": "Luxonis packs a five-camera humanoid eye system on one board",
+      "summary": "The OAK 4 FFC board takes up to five camera modules and 52 TOPS of compute, so builders can place stereo and wide-angle cameras where they want, according to Luxonis. Thermal and time-of-flight modules are listed as coming soon; no pricing was given.",
+      "source": "Robotics 24/7",
+      "date": "27 Oct 2026",
+      "url": "https://www.robotics247.com/article/luxonis-launches-oak-4-ffc-board-level-vision-computer-for-humanoids-drones-and-other-machines",
+      "art": "green",
+      "artTitle": "Humanoid vision board"
+    },
+    {
       "iso": "2026-10-22",
       "chip": "Semiconductors",
       "title": "Agility makes NVIDIA the sole brain-chip supplier for Digit 5",
