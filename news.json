@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-11-10",
+      "chip": "End Effectors",
+      "title": "GENTO brings a 21-DoF hand prototype to CoRL",
+      "summary": "Tianji Intelligence's GENTO brand is showing a 750 g dexterous hand with 21 degrees of freedom, backdrivable joints, 10 N rated fingertip force and a 100 mm maximum grasp, according to the company. It sits on static display in Austin as a prototype – no price or availability yet.",
+      "source": "GENTO (PR Newswire)",
+      "date": "10 Nov 2026",
+      "url": "https://www.prnewswire.com/news-releases/tianji-intelligence-debuts-21-dof-dexterous-hand-at-corl-2026-as-nvidia-demos-gr00t-2-on-custom-marvin-pro-302934702.html",
+      "art": "yellow",
+      "artTitle": "21-DoF prototype hand"
+    },
+    {
       "iso": "2026-11-09",
       "chip": "Semiconductors",
       "title": "MIPS puts a whole robot joint controller on one RISC-V chip",
