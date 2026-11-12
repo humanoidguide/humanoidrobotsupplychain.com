@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-11-11",
+      "chip": "Semiconductors",
+      "title": "Elmos brings its car chips to AGIBOT's humanoids",
+      "summary": "German chipmaker Elmos is using electronica in Munich to show how its automotive ICs – motor control for joints, touch, ultrasonic and force sensing, in-robot networking and power protection – work inside AGIBOT robots, with a live AGIBOT humanoid on the stand. One of its ultrasonic ICs already ships in AGIBOT's wheeled robots, and a single humanoid could hold more than 120 Elmos chips, according to Elmos.",
+      "source": "Elmos Semiconductor (PresseBox)",
+      "date": "11 Nov 2026",
+      "url": "https://pressebox.com/pressrelease/elmos-semiconductor-ag/Elmos-and-AGIBOT-showcase-Humanoid-Robotics-at-electronica-2026/boxid/1320383",
+      "art": "dark",
+      "artTitle": "Car chips, robot joints"
+    },
+    {
       "iso": "2026-11-10",
       "chip": "End Effectors",
       "title": "GENTO brings a 21-DoF hand prototype to CoRL",
