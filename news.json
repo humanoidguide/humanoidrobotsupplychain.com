@@ -26,6 +26,17 @@
     },
     {
       "iso": "2026-11-09",
+      "chip": "Trade Policy",
+      "title": "China buys two more months on rare-earth curbs",
+      "summary": "A day before the one-year pause ran out, Beijing extended its suspension of the expanded October 2025 rare-earth export controls – the curbs that threaten magnet supply for actuators – to 10 January, Reuters reports. The commerce ministry gave no further details; the move is part of a wider pause on countermeasures while China negotiates a lasting trade deal with Washington.",
+      "source": "Reuters",
+      "date": "9 Nov 2026",
+      "url": "https://theprint.in/world/china-extends-suspension-of-new-rare-earth-controls-until-january/3094091/",
+      "art": "dark",
+      "artTitle": "Magnet clock reset"
+    },
+    {
+      "iso": "2026-11-09",
       "chip": "Semiconductors",
       "title": "MIPS puts a whole robot joint controller on one RISC-V chip",
       "summary": "MIPS' Actus reference platform combines real-time motor control, edge inference, Time-Sensitive Networking and post-quantum security on a single GlobalFoundries FD-SOI chip, aimed at the cramped elbow-to-fingertip joints of humanoid arms, according to the company. Developers can begin on a virtual platform before moving to the Actus-1 evaluation board, which MIPS is showing at electronica in Munich this week.",
