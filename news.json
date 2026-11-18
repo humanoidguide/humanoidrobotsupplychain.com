@@ -3,6 +3,17 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-11-16",
+      "chip": "End Effectors",
+      "title": "ROBOTERA puts 40 DexUMI-matched hands on sale",
+      "summary": "ROBOTERA has opened commercial orders for the XHAND 1 Pro-U, a 16-DoF five-finger hand whose joints line up one-to-one with NVIDIA GEAR Lab's DexUMI exoskeleton, with a reworked thumb and palm-side tactile sensing. The first batch is limited to 40 units with no published price; according to ROBOTERA, two of the hands ran NVIDIA's GR00T 2 CoRL demo, trained on exoskeleton demonstrations without robot teleoperation.",
+      "source": "ROBOTERA (PR Newswire)",
+      "date": "16 Nov 2026",
+      "url": "https://www.prnewswire.com/news-releases/robotera-launches-xhand-1-pro-u-featured-in-nvidias-gr00t-2-dexumi-demonstration-302940288.html",
+      "image": "https://mmx.prnewswire.com/media/MS2036401/20261116035354EST_image_1.jpg?id=OA3079866&p=medium",
+      "credit": "Image © ROBOTERA"
+    },
+    {
       "iso": "2026-11-12",
       "chip": "Sensors",
       "title": "Melexis puts touch in a fingertip-sized module",
