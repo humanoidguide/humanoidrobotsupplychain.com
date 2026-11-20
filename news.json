@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-11-19",
+      "chip": "Semiconductors",
+      "title": "Dongwoon Anatech turns phone-camera chips into robot joint drivers",
+      "summary": "Korean fabless chipmaker Dongwoon Anatech, best known for smartphone autofocus and image-stabilisation drivers, is setting up an automotive and robotics division to build motor and actuator driver ICs, 48V eFuses and gate drivers for humanoids. The company says more than half its core design assets carry over from its phone chips, but gives no sampling or production dates yet.",
+      "source": "Dongwoon Anatech",
+      "date": "19 Nov 2026",
+      "url": "https://www.prnewswire.com/news-releases/dongwoon-anatech-enters-robot-motion-control-market-powering-the-future-of-physical-ai-302943847.html",
+      "image": "https://mmx.prnewswire.com/media/MS2038651/20261118035811EST_image_1.jpg?id=OA3088166&p=medium",
+      "credit": "Image © Dongwoon Anatech"
+    },
+    {
+      "iso": "2026-11-19",
       "chip": "End Effectors",
       "title": "NJIT's printable hand puts a humanoid hand at $300",
       "summary": "New Jersey Institute of Technology researchers have built a 0.5 kg, near-human-size five-finger hand out of 3D-printed PETG and TPU, with linkages, flexible hinges and spring-steel rods in place of tendons, and hobby servos outside the fingers driving them without gear trains. It's a research prototype with a stated price of about $300 and limited grip strength, and the team plans to release the design files openly.",
