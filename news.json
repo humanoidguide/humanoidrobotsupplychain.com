@@ -3,6 +3,28 @@
   "topic": "humanoid robot supply chain: components, suppliers, actuators, sensors, batteries, semiconductors, end effectors, manufacturing, materials, trade policy",
   "items": [
     {
+      "iso": "2026-11-23",
+      "chip": "Components",
+      "title": "coprod raises $6M to sell robots as plug-in modules",
+      "summary": "Lausanne startup coprod has closed a $6M pre-seed round led by Founderful and PROTOTYPE for its co:power, co:battery, co:sensor and co:motion modules, tied together on one EtherCAT control plane. The company says it will launch commercially early next year, have the full line on the market by end-2027 and manufacture at scale in Shenzhen and Texas; its parts already run inside the ETH Robotics Club's student-built humanoid.",
+      "source": "coprod (PR Newswire)",
+      "date": "23 Nov 2026",
+      "url": "https://www.prnewswire.com/news-releases/coprod-raises-6m-to-make-robot-hardware-as-easy-to-build-as-software-302947695.html",
+      "image": "https://mmx.prnewswire.com/media/MS2040719/announcement-thumbnail.jpg?id=OA3094500",
+      "credit": "Image © coprod"
+    },
+    {
+      "iso": "2026-11-23",
+      "chip": "Semiconductors",
+      "title": "NVIDIA brings Jensen Huang back after 11 days",
+      "summary": "NVIDIA's board has unanimously reinstated Jensen Huang as CEO, saying it consulted senior US officials and found no national-security risk, with Colette Kress returning to CFO and a new independent committee set up to oversee export controls and trade compliance. An independent probe into reports that Huang was targeted by a foreign intelligence effort is still running, with no timeline given.",
+      "source": "The Robot Report",
+      "date": "23 Nov 2026",
+      "url": "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/",
+      "art": "dark",
+      "artTitle": "Huang is back"
+    },
+    {
       "iso": "2026-11-21",
       "chip": "End Effectors",
       "title": "Siemens and AGIBOT let an AI agent design humanoid grippers",
